@@ -1,0 +1,12 @@
+{
+  "name": "medisocial",
+  "version": "1.0.0",
+  "description": "Réseau social santé : fil d'actualité, messagerie et prise de rendez-vous (style Facebook + Doctolib)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
